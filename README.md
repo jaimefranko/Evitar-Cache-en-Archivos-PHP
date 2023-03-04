@@ -1,2 +1,3 @@
 # Evitar Cache en Archivos PHP
- Cache Php
+Con este pequeño hack podemos evitar que nuestros archivos siempre se muestren en su versión mas reciente 
+
